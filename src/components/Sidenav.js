@@ -1,5 +1,3 @@
-import KeyboardDoubleArrowLeftIcon from '@mui/icons-material/KeyboardDoubleArrowLeft';
-import { navData } from "../lib/navData";
 import { NavLink } from "react-router-dom";
 
 export default function Sidenav() {
